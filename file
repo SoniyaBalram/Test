@@ -1,0 +1,18 @@
+total 72
+-rwxrwxrwx 1 sct sct 7753 Oct 18 05:30 a.out
+drwxrwxrwx 2 sct sct 4096 Dec  9 13:34 Desktop
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Documents
+drwxrwxrwx 2 sct sct 4096 Nov 14 14:47 Downloads
+-rwxrwxrwx 1 sct sct 8980 Jul 25 17:03 examples.desktop
+-rw-rw-r-- 1 sct sct    0 Dec 14 10:02 file
+drwxrwxr-x 2 sct sct 4096 Dec 14 09:57 file.txt
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Music
+-rwxrwxrwx 1 sct sct  422 Oct  7 12:22 operations.py~
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Pictures
+-rwxrwxrwx 1 sct sct  113 Oct  7 10:52 primeno.py~
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Public
+drwxrwxrwx 5 sct sct 4096 Oct 22 13:53 ReverseTetheringServer_1.0.9
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Templates
+drwxrwxrwx 2 sct sct 4096 Jul 25 17:17 Videos
+drwxrwxr-x 3 sct sct 4096 Dec 13 11:14 VirtualBox VMs
+hai
